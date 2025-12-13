@@ -12,6 +12,7 @@ These fundamentals are critical for scalable APIs, distributed systems, and GenA
 
 ## Projects
 
+
 ├── tcp-client-server/
 ├── udp-messaging-lab/
 ├── tcp-vs-udp-benchmark/
@@ -22,6 +23,7 @@ These fundamentals are critical for scalable APIs, distributed systems, and GenA
 ├── http-vs-https-traffic-demo/
 ├── websocket-chat-backend/
 └── webrtc-signaling-server/
+
 
 
 Each project is self-contained and documents the protocol layer involved, implementation approach, limitations, and real-world use cases.
